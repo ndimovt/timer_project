@@ -1,0 +1,41 @@
+#start_button{
+    margin-left: 5%;
+}
+#reset_button{
+    margin-left: 5%;
+}
+#time{
+    width: 210px;
+    height: 210px;
+    border-style: solid;
+    border-radius: 150px;
+    border-color: rgb(255, 102, 0);
+    border-width: 9px;
+    text-align: center;
+    font-size: 54px;
+    color: rgb(255, 102, 0);
+    display: block;
+    margin-top: 25%;
+    margin-left: 14%;
+    margin-right: 15%;
+}
+#main{
+    width: 330px;
+    height: 610px;
+    background-color: white;
+    border-color: black;
+    border-radius: 20px;
+    border-style: solid;
+}
+.button{
+    display: inline-block;
+    margin-top: 15%;
+    margin-left: 10%;
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    color: white;
+    background-color: rgb(255, 102, 0);
+    font-size: 35px;
+    text-align: center; 
+}
